@@ -3,10 +3,10 @@
   "description": "start up project",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.8.3]",
-    "UiPath.Mail.Activities": "[1.8.3]",
+    "UiPath.Excel.Activities": "[2.8.5]",
+    "UiPath.Mail.Activities": "[1.8.5]",
     "UiPath.System.Activities": "[20.4.0]",
-    "UiPath.UIAutomation.Activities": "[20.4.0]"
+    "UiPath.UIAutomation.Activities": "[20.4.1]"
   },
   "webServices": [],
   "schemaVersion": "4.0",
